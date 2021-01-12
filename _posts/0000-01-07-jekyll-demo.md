@@ -1,5 +1,4 @@
 ## DEMO! O_O
-{% background red %}
 
 Ruby as prerequisite
 
